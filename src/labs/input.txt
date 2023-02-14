@@ -1,0 +1,6 @@
+22
+White Red LightRed DeepOrange Orange Amber Yellow Lime LightGreen Green Teal Indigo LightBlue Blue Cyan Purple DeepPurple Brown DeepBrown BlueGrey Grey Black
+#FFFFFF #D40C00 #FF9A00 #FF5500 #FF9A00 #FFCD00 #FFEF00 #CDE000 #87C735 #32C12C #009888 #3E49BB #00A5F9 #526EFF #00BCD9 #7F4FC9 #682CBF #7C5547 #50342C #5F7D8E #9E9E9E #000000
+false true true true false true true false false false true false false true true false false true false true false false
+1000 900 500 400 100 90 50 40 10 9 5 4 1
+M CM D CD C XC L XL X IX V IV I
